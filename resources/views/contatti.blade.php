@@ -4,17 +4,15 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Hello Laravel</title>
+        <title>Hello Laravel-Contatti</title>
     </head>
     <body>
         <header>
             <h1>
-                HELLO WORLD
+                Contatti
             </h1>
             <div>
-                <a href="http://127.0.0.1:8000/contatti">Contatti</a>
-                <a href="http://127.0.0.1:8000/chi_siamo">Chi siamo</a>
-                <a href="http://127.0.0.1:8000/download">Chi siamo</a>
+                <a href="http://127.0.0.1:8000/">Home Page</a>
             </div>
         </header>
     </body>

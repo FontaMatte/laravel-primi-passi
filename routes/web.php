@@ -17,3 +17,15 @@ Route::get('/', function () {
     return view('home');
 });
 
+Route::get('/contatti', function () {
+    return view('contatti');
+});
+
+Route::get('/chi_siamo', function () {
+    return view('chi_siamo');
+});
+
+Route::get('/download', function () {
+    return view('download');
+});
+
